@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/emoji-search/static/css/main.342e4d72.css",
+    "main.js": "/emoji-search/static/js/main.b7f0ab1f.js",
+    "static/js/787.2dcf09ca.chunk.js": "/emoji-search/static/js/787.2dcf09ca.chunk.js",
+    "static/media/emoji1.png": "/emoji-search/static/media/emoji1.3b4e144aeddb4ce264db.png",
+    "index.html": "/emoji-search/index.html",
+    "main.342e4d72.css.map": "/emoji-search/static/css/main.342e4d72.css.map",
+    "main.b7f0ab1f.js.map": "/emoji-search/static/js/main.b7f0ab1f.js.map",
+    "787.2dcf09ca.chunk.js.map": "/emoji-search/static/js/787.2dcf09ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.342e4d72.css",
+    "static/js/main.b7f0ab1f.js"
+  ]
+}
